@@ -1,0 +1,75 @@
+Spine-base:
+  name: spine base
+  index: 0
+Spine-mid-point:
+  name: spine mid point
+  index: 1
+Neck:
+  name: neck
+  index: 2
+Head:
+  name: head
+  index: 3
+Left-shoulder:
+  name: left shoulder
+  index: 4
+Left-elbow:
+  name: left elbow
+  index: 5
+Left-wrist:
+  name: left wrist
+  index: 6
+Left-hand:
+  name: left hand
+  index: 7
+Right-shoulder:
+  name: right Shoulder
+  index: 8
+Right-elbow:
+  name: right elbow
+  index: 9
+Right-wrist:
+  name: right wrist
+  index: 10
+Right-hand:
+  name: right hand
+  index: 11
+Left-hip:
+  name: left hip
+  index: 12
+Left-knee:
+  name: left knee
+  index: 13
+Left-ankle:
+  name: left ankle
+  index: 14
+Left-foot:
+  name: left foot
+  index: 15
+Right-hip:
+  name: right hip
+  index: 16
+Right-knee:
+  name: right knee
+  index: 17
+Right-ankle:
+  name: right ankle
+  index: 18
+Right-foot:
+  name: right foot
+  index: 19
+Shoulder-spine-center:
+  name: shoulder spine center
+  index: 20
+Left-hand-tip:
+  name: left hand tip
+  index: 21
+Left-thumb:
+  name: left thumb
+  index: 22
+Right-hand-tip:
+  name: right hand tip
+  index: 23
+Right-thumb:
+  name: right thumb
+  index: 24

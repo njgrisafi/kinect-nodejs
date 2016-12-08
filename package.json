@@ -1,0 +1,30 @@
+{
+  "name": "kinect-nodejs",
+  "version": "1.0.0",
+  "description": "Kinect NodeJs",
+  "main": "index.js",
+  "dependencies": {
+    "kinect2": "^0.1.5",
+    "express": "~4.9.5",
+    "socket.io": "~1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njgrisafi/kinect-nodejs.git"
+  },
+  "keywords": [
+    "kinect",
+    "nodejs"
+  ],
+  "author": "Nick Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njgrisafi/kinect-nodejs/issues"
+  },
+  "homepage": "https://github.com/njgrisafi/kinect-nodejs#readme"
+}
